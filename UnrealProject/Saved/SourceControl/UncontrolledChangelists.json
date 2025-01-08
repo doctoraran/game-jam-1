@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/sambl/Documents/GitHub/game-jam-1/UnrealProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/sambl/Documents/GitHub/game-jam-1/UnrealProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/Maps/Map_Dungeon.umap",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/Assets/Dungeon_Level.uasset",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/Assets/Dungeon_Level_blinn1_BaseColor.uasset",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/Assets/Dungeon_Level_blinn1_Normal.uasset",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/Assets/Dungeon_Level_blinn1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/Assets/M_Dungeon.uasset",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/BP_GameMode.uasset",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/BP_Player.uasset",
+				"C:/Users/sambl/OneDrive - University of Huddersfield/Documents/Git/game-jam-1/UnrealProject/Content/BP_PlayerController.uasset"
 			]
 		}
 	]
