@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "{DC94A95B-4222-E54E-0F54-2ABD51EA68BD}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
