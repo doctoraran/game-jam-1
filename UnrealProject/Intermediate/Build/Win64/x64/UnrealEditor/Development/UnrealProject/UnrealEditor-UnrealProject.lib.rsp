@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\U2462878\OneDrive - University of Huddersfield\Documents\Git\game-jam-1\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\U2462878\OneDrive - University of Huddersfield\Documents\Git\game-jam-1\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\Card.gen.cpp.obj"
+"C:\Users\U2462878\OneDrive - University of Huddersfield\Documents\Git\game-jam-1\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealProject.init.gen.cpp.obj"
+"C:\Users\U2462878\OneDrive - University of Huddersfield\Documents\Git\game-jam-1\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\Card.cpp.obj"
+"C:\Users\U2462878\OneDrive - University of Huddersfield\Documents\Git\game-jam-1\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealProject.cpp.obj"
+"C:\Users\U2462878\OneDrive - University of Huddersfield\Documents\Git\game-jam-1\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\Default.rc2.res"
+/OUT:"C:\Users\U2462878\OneDrive - University of Huddersfield\Documents\Git\game-jam-1\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealEditor-UnrealProject.lib"
